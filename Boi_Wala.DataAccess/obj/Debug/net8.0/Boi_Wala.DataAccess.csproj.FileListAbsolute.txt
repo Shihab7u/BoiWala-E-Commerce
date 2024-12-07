@@ -1,0 +1,114 @@
+E:\Full Project\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.DataAccess.deps.json
+E:\Full Project\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.DataAccess.runtimeconfig.json
+E:\Full Project\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.DataAccess.dll
+E:\Full Project\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.DataAccess.pdb
+E:\Full Project\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.Models.dll
+E:\Full Project\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.Utility.dll
+E:\Full Project\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.Models.pdb
+E:\Full Project\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.Utility.pdb
+E:\Full Project\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.csproj.AssemblyReference.cache
+E:\Full Project\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Full Project\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.AssemblyInfoInputs.cache
+E:\Full Project\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.AssemblyInfo.cs
+E:\Full Project\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.csproj.CoreCompileInputs.cache
+E:\Full Project\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.csproj.CopyComplete
+E:\Full Project\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.dll
+E:\Full Project\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\refint\Boi_Wala.DataAccess.dll
+E:\Full Project\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.pdb
+E:\Full Project\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.genruntimeconfig.cache
+E:\Full Project\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\ref\Boi_Wala.DataAccess.dll
+G:\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.DataAccess.deps.json
+G:\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.DataAccess.runtimeconfig.json
+G:\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.DataAccess.dll
+G:\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.DataAccess.pdb
+G:\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.Models.dll
+G:\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.Utility.dll
+G:\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.Models.pdb
+G:\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.Utility.pdb
+G:\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.csproj.AssemblyReference.cache
+G:\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.AssemblyInfoInputs.cache
+G:\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.AssemblyInfo.cs
+G:\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.csproj.CoreCompileInputs.cache
+G:\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.csproj.CopyComplete
+G:\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.dll
+G:\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\refint\Boi_Wala.DataAccess.dll
+G:\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.pdb
+G:\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.genruntimeconfig.cache
+G:\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\ref\Boi_Wala.DataAccess.dll
+D:\New folder (2)\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.DataAccess.deps.json
+D:\New folder (2)\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.DataAccess.runtimeconfig.json
+D:\New folder (2)\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.DataAccess.dll
+D:\New folder (2)\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.DataAccess.pdb
+D:\New folder (2)\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.Models.dll
+D:\New folder (2)\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.Utility.dll
+D:\New folder (2)\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.Models.pdb
+D:\New folder (2)\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.Utility.pdb
+D:\New folder (2)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.csproj.AssemblyReference.cache
+D:\New folder (2)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.AssemblyInfoInputs.cache
+D:\New folder (2)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.AssemblyInfo.cs
+D:\New folder (2)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.csproj.CoreCompileInputs.cache
+D:\New folder (2)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.csproj.CopyComplete
+D:\New folder (2)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.dll
+D:\New folder (2)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\refint\Boi_Wala.DataAccess.dll
+D:\New folder (2)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.pdb
+D:\New folder (2)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.genruntimeconfig.cache
+D:\New folder (2)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\ref\Boi_Wala.DataAccess.dll
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.DataAccess.deps.json
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.DataAccess.runtimeconfig.json
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.DataAccess.dll
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.DataAccess.pdb
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.Models.dll
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.Utility.dll
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.Models.pdb
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.Utility.pdb
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.csproj.AssemblyReference.cache
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.AssemblyInfoInputs.cache
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.AssemblyInfo.cs
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.csproj.CoreCompileInputs.cache
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.94EBD4F8.Up2Date
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.dll
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\refint\Boi_Wala.DataAccess.dll
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.pdb
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.genruntimeconfig.cache
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\ref\Boi_Wala.DataAccess.dll
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.DataAccess.deps.json
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.DataAccess.runtimeconfig.json
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.DataAccess.dll
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.DataAccess.pdb
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.Models.dll
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.Utility.dll
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.Models.pdb
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.Utility.pdb
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.csproj.AssemblyReference.cache
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.AssemblyInfoInputs.cache
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.AssemblyInfo.cs
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.csproj.CoreCompileInputs.cache
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.94EBD4F8.Up2Date
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.dll
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\refint\Boi_Wala.DataAccess.dll
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.pdb
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.genruntimeconfig.cache
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\ref\Boi_Wala.DataAccess.dll
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.DataAccess.deps.json
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.DataAccess.runtimeconfig.json
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.DataAccess.dll
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.DataAccess.pdb
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.Models.dll
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.Utility.dll
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.Models.pdb
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.DataAccess\bin\Debug\net8.0\Boi_Wala.Utility.pdb
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.csproj.AssemblyReference.cache
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.AssemblyInfoInputs.cache
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.AssemblyInfo.cs
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.csproj.CoreCompileInputs.cache
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.94EBD4F8.Up2Date
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.dll
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\refint\Boi_Wala.DataAccess.dll
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.pdb
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\Boi_Wala.DataAccess.genruntimeconfig.cache
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.DataAccess\obj\Debug\net8.0\ref\Boi_Wala.DataAccess.dll

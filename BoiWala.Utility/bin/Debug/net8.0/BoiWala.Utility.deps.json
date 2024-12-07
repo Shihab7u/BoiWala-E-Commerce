@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BoiWala.Utility/1.0.0": {
+        "runtime": {
+          "BoiWala.Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BoiWala.Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

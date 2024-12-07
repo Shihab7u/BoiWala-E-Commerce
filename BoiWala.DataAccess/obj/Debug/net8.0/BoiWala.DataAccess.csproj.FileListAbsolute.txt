@@ -1,0 +1,5 @@
+D:\New folder (2)\BoiWala\BoiWala.DataAccess\obj\Debug\net8.0\BoiWala.DataAccess.csproj.AssemblyReference.cache
+D:\New folder (2)\BoiWala\BoiWala.DataAccess\obj\Debug\net8.0\BoiWala.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\BoiWala\BoiWala.DataAccess\obj\Debug\net8.0\BoiWala.DataAccess.AssemblyInfoInputs.cache
+D:\New folder (2)\BoiWala\BoiWala.DataAccess\obj\Debug\net8.0\BoiWala.DataAccess.AssemblyInfo.cs
+D:\New folder (2)\BoiWala\BoiWala.DataAccess\obj\Debug\net8.0\BoiWala.DataAccess.csproj.CoreCompileInputs.cache

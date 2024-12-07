@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Boi-Wala.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Boi-Wala.bundle.scp.css"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\01be873e-a0af-417d-a067-0280696f5f9d.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\01be873e-a0af-417d-a067-0280696f5f9d.jpeg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\0b420ba1-30de-409d-ae5c-1e8e98494ae7.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\0b420ba1-30de-409d-ae5c-1e8e98494ae7.jpg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\1d7a75bd-dfb1-4cc5-a271-63be9390d71a.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\1d7a75bd-dfb1-4cc5-a271-63be9390d71a.jpeg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\2d737273-a4ab-4921-90b6-d1338d224293.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\2d737273-a4ab-4921-90b6-d1338d224293.jpeg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\300063c4-2111-4ef3-adc3-f03d1e37a487.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\300063c4-2111-4ef3-adc3-f03d1e37a487.jpg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\31491276-94da-457b-862c-6dee0474396b.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\31491276-94da-457b-862c-6dee0474396b.jpeg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\33e8db97-9c1f-4de3-89ce-5aef3ee1874c.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\33e8db97-9c1f-4de3-89ce-5aef3ee1874c.jpeg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\34d88546-f29d-47cc-8619-c29570db6ac5.webp",
+      "PackagePath": "staticwebassets\\images\\product\\34d88546-f29d-47cc-8619-c29570db6ac5.webp"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\36317bed-0738-418f-872f-f2c9b937fe5b.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\36317bed-0738-418f-872f-f2c9b937fe5b.jpeg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\47d89f39-4b5a-4d92-88f3-d3bdf88f45ed.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\47d89f39-4b5a-4d92-88f3-d3bdf88f45ed.jpeg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\4863b8a9-defd-4334-a4d5-e01a78468fc7.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\4863b8a9-defd-4334-a4d5-e01a78468fc7.jpg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\76f45958-6b54-4beb-9f2d-6b475d6ab2d9.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\76f45958-6b54-4beb-9f2d-6b475d6ab2d9.jpg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\8898327e-1fd1-4ace-96b1-05175d98bc31.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\8898327e-1fd1-4ace-96b1-05175d98bc31.jpeg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\8e7b16b1-ff2a-437f-b766-c4c06f1a3bb9.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\8e7b16b1-ff2a-437f-b766-c4c06f1a3bb9.jpg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\930a6808-1bce-4179-a468-c5438ceaf08f.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\930a6808-1bce-4179-a468-c5438ceaf08f.jpeg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\9e20f1f8-f4cd-4115-88d8-6d3d7868447f.JPG",
+      "PackagePath": "staticwebassets\\images\\product\\9e20f1f8-f4cd-4115-88d8-6d3d7868447f.JPG"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\b342844c-733e-4a99-9f2d-5e22771507f3.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\b342844c-733e-4a99-9f2d-5e22771507f3.jpg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\b76d2865-15e5-488a-9a94-82869302cdd5.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\b76d2865-15e5-488a-9a94-82869302cdd5.jpeg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\b9a8a140-12a6-422b-8f8b-effcc854c703.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\b9a8a140-12a6-422b-8f8b-effcc854c703.jpeg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\c19bd90f-f7b7-4e42-a291-2b3729e1d20a.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\c19bd90f-f7b7-4e42-a291-2b3729e1d20a.jpg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\c1e99363-b031-4dcb-a224-48f41cb0d06f.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\c1e99363-b031-4dcb-a224-48f41cb0d06f.jpg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\d03829a7-4940-42e0-8a68-4d1c092bc75c.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\d03829a7-4940-42e0-8a68-4d1c092bc75c.jpg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\eadb5fde-2ce4-4e82-bee2-6ae1a3fc59dc.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\eadb5fde-2ce4-4e82-bee2-6ae1a3fc59dc.jpg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\f10ee8ce-04ac-47d8-893e-627ae519cec0.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\f10ee8ce-04ac-47d8-893e-627ae519cec0.jpg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\product\\fe3e68db-21fe-436f-80aa-75681c2dd325.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\fe3e68db-21fe-436f-80aa-75681c2dd325.jpeg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\products\\product-4\\10173d1b-57cf-4e67-8461-130ee7b9447d.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\10173d1b-57cf-4e67-8461-130ee7b9447d.jpg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\products\\product-4\\7109cc3f-cfbd-4ff9-8c65-ae771c284ce9.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\7109cc3f-cfbd-4ff9-8c65-ae771c284ce9.jpg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\products\\product-4\\7b88a07a-1bc2-4fd7-8380-88ba6a36b37b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\7b88a07a-1bc2-4fd7-8380-88ba6a36b37b.jpg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\products\\product-4\\9cd39d8d-5ba3-4f02-8bf1-1dac5b7b782e.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\9cd39d8d-5ba3-4f02-8bf1-1dac5b7b782e.jpg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\images\\products\\product-4\\b621197c-38d8-4cab-b585-e495a0b41cec.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\b621197c-38d8-4cab-b585-e495a0b41cec.jpg"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi-Wala\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Boi-Wala.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Boi-Wala.props",
+      "PackagePath": "build\\Boi-Wala.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Boi-Wala.props",
+      "PackagePath": "buildMultiTargeting\\Boi-Wala.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Boi-Wala.props",
+      "PackagePath": "buildTransitive\\Boi-Wala.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,14 @@
+D:\New folder (2)\BoiWala\BoiWala.Models\bin\Debug\net8.0\BoiWala.Models.deps.json
+D:\New folder (2)\BoiWala\BoiWala.Models\bin\Debug\net8.0\BoiWala.Models.runtimeconfig.json
+D:\New folder (2)\BoiWala\BoiWala.Models\bin\Debug\net8.0\BoiWala.Models.dll
+D:\New folder (2)\BoiWala\BoiWala.Models\bin\Debug\net8.0\BoiWala.Models.pdb
+D:\New folder (2)\BoiWala\BoiWala.Models\obj\Debug\net8.0\BoiWala.Models.csproj.AssemblyReference.cache
+D:\New folder (2)\BoiWala\BoiWala.Models\obj\Debug\net8.0\BoiWala.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\BoiWala\BoiWala.Models\obj\Debug\net8.0\BoiWala.Models.AssemblyInfoInputs.cache
+D:\New folder (2)\BoiWala\BoiWala.Models\obj\Debug\net8.0\BoiWala.Models.AssemblyInfo.cs
+D:\New folder (2)\BoiWala\BoiWala.Models\obj\Debug\net8.0\BoiWala.Models.csproj.CoreCompileInputs.cache
+D:\New folder (2)\BoiWala\BoiWala.Models\obj\Debug\net8.0\BoiWala.Models.dll
+D:\New folder (2)\BoiWala\BoiWala.Models\obj\Debug\net8.0\refint\BoiWala.Models.dll
+D:\New folder (2)\BoiWala\BoiWala.Models\obj\Debug\net8.0\BoiWala.Models.pdb
+D:\New folder (2)\BoiWala\BoiWala.Models\obj\Debug\net8.0\BoiWala.Models.genruntimeconfig.cache
+D:\New folder (2)\BoiWala\BoiWala.Models\obj\Debug\net8.0\ref\BoiWala.Models.dll

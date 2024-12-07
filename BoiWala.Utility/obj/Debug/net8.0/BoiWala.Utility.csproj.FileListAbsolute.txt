@@ -1,0 +1,11 @@
+D:\New folder (2)\BoiWala\BoiWala.Utility\bin\Debug\net8.0\BoiWala.Utility.deps.json
+D:\New folder (2)\BoiWala\BoiWala.Utility\bin\Debug\net8.0\BoiWala.Utility.dll
+D:\New folder (2)\BoiWala\BoiWala.Utility\bin\Debug\net8.0\BoiWala.Utility.pdb
+D:\New folder (2)\BoiWala\BoiWala.Utility\obj\Debug\net8.0\BoiWala.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\BoiWala\BoiWala.Utility\obj\Debug\net8.0\BoiWala.Utility.AssemblyInfoInputs.cache
+D:\New folder (2)\BoiWala\BoiWala.Utility\obj\Debug\net8.0\BoiWala.Utility.AssemblyInfo.cs
+D:\New folder (2)\BoiWala\BoiWala.Utility\obj\Debug\net8.0\BoiWala.Utility.csproj.CoreCompileInputs.cache
+D:\New folder (2)\BoiWala\BoiWala.Utility\obj\Debug\net8.0\BoiWala.Utility.dll
+D:\New folder (2)\BoiWala\BoiWala.Utility\obj\Debug\net8.0\refint\BoiWala.Utility.dll
+D:\New folder (2)\BoiWala\BoiWala.Utility\obj\Debug\net8.0\BoiWala.Utility.pdb
+D:\New folder (2)\BoiWala\BoiWala.Utility\obj\Debug\net8.0\ref\BoiWala.Utility.dll

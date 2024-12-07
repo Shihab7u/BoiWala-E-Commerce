@@ -1,0 +1,72 @@
+E:\Full Project\BoiWala\Boi_Wala.Models\bin\Debug\net8.0\Boi_Wala.Models.deps.json
+E:\Full Project\BoiWala\Boi_Wala.Models\bin\Debug\net8.0\Boi_Wala.Models.dll
+E:\Full Project\BoiWala\Boi_Wala.Models\bin\Debug\net8.0\Boi_Wala.Models.pdb
+E:\Full Project\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.csproj.AssemblyReference.cache
+E:\Full Project\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Full Project\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.AssemblyInfoInputs.cache
+E:\Full Project\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.AssemblyInfo.cs
+E:\Full Project\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.csproj.CoreCompileInputs.cache
+E:\Full Project\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.dll
+E:\Full Project\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\refint\Boi_Wala.Models.dll
+E:\Full Project\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.pdb
+E:\Full Project\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\ref\Boi_Wala.Models.dll
+G:\BoiWala\Boi_Wala.Models\bin\Debug\net8.0\Boi_Wala.Models.deps.json
+G:\BoiWala\Boi_Wala.Models\bin\Debug\net8.0\Boi_Wala.Models.dll
+G:\BoiWala\Boi_Wala.Models\bin\Debug\net8.0\Boi_Wala.Models.pdb
+G:\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.csproj.AssemblyReference.cache
+G:\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.GeneratedMSBuildEditorConfig.editorconfig
+G:\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.AssemblyInfoInputs.cache
+G:\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.AssemblyInfo.cs
+G:\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.csproj.CoreCompileInputs.cache
+G:\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.dll
+G:\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\refint\Boi_Wala.Models.dll
+G:\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.pdb
+G:\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\ref\Boi_Wala.Models.dll
+D:\New folder (2)\BoiWala\Boi_Wala.Models\bin\Debug\net8.0\Boi_Wala.Models.deps.json
+D:\New folder (2)\BoiWala\Boi_Wala.Models\bin\Debug\net8.0\Boi_Wala.Models.dll
+D:\New folder (2)\BoiWala\Boi_Wala.Models\bin\Debug\net8.0\Boi_Wala.Models.pdb
+D:\New folder (2)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.csproj.AssemblyReference.cache
+D:\New folder (2)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.AssemblyInfoInputs.cache
+D:\New folder (2)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.AssemblyInfo.cs
+D:\New folder (2)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.csproj.CoreCompileInputs.cache
+D:\New folder (2)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.dll
+D:\New folder (2)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\refint\Boi_Wala.Models.dll
+D:\New folder (2)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.pdb
+D:\New folder (2)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\ref\Boi_Wala.Models.dll
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.Models\bin\Debug\net8.0\Boi_Wala.Models.deps.json
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.Models\bin\Debug\net8.0\Boi_Wala.Models.dll
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.Models\bin\Debug\net8.0\Boi_Wala.Models.pdb
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.csproj.AssemblyReference.cache
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.AssemblyInfoInputs.cache
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.AssemblyInfo.cs
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.csproj.CoreCompileInputs.cache
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.dll
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\refint\Boi_Wala.Models.dll
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.pdb
+G:\Project\BoiWala Project\New folder (3)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\ref\Boi_Wala.Models.dll
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.Models\bin\Debug\net8.0\Boi_Wala.Models.deps.json
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.Models\bin\Debug\net8.0\Boi_Wala.Models.dll
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.Models\bin\Debug\net8.0\Boi_Wala.Models.pdb
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.csproj.AssemblyReference.cache
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.AssemblyInfoInputs.cache
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.AssemblyInfo.cs
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.csproj.CoreCompileInputs.cache
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.dll
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\refint\Boi_Wala.Models.dll
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.pdb
+G:\Project\BoiWala Project\New folder (4)\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\ref\Boi_Wala.Models.dll
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.Models\bin\Debug\net8.0\Boi_Wala.Models.deps.json
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.Models\bin\Debug\net8.0\Boi_Wala.Models.dll
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.Models\bin\Debug\net8.0\Boi_Wala.Models.pdb
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.csproj.AssemblyReference.cache
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.AssemblyInfoInputs.cache
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.AssemblyInfo.cs
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.csproj.CoreCompileInputs.cache
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.dll
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\refint\Boi_Wala.Models.dll
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\Boi_Wala.Models.pdb
+G:\Project\BoiWala Project\BoiWala Project Done\BoiWala\Boi_Wala.Models\obj\Debug\net8.0\ref\Boi_Wala.Models.dll

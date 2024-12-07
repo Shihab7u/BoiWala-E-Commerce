@@ -1,0 +1,254 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi_Wala.DataAccess\\Boi_Wala.DataAccess.csproj": {}
+  },
+  "projects": {
+    "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi_Wala.DataAccess\\Boi_Wala.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi_Wala.DataAccess\\Boi_Wala.DataAccess.csproj",
+        "projectName": "Boi_Wala.DataAccess",
+        "projectPath": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi_Wala.DataAccess\\Boi_Wala.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Blue Cat\\.nuget\\packages\\",
+        "outputPath": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi_Wala.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Blue Cat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi_Wala.Models\\Boi_Wala.Models.csproj": {
+                "projectPath": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi_Wala.Models\\Boi_Wala.Models.csproj"
+              },
+              "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi_Wala.Utility\\Boi_Wala.Utility.csproj": {
+                "projectPath": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi_Wala.Utility\\Boi_Wala.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0-rc.1.23421.29, )"
+            },
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0-rc.1.23419.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0-rc.1.23419.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0-rc.1.23419.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi_Wala.Models\\Boi_Wala.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi_Wala.Models\\Boi_Wala.Models.csproj",
+        "projectName": "Boi_Wala.Models",
+        "projectPath": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi_Wala.Models\\Boi_Wala.Models.csproj",
+        "packagesPath": "C:\\Users\\Blue Cat\\.nuget\\packages\\",
+        "outputPath": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi_Wala.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Blue Cat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0-rc.1.23421.29, )"
+            },
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi_Wala.Utility\\Boi_Wala.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi_Wala.Utility\\Boi_Wala.Utility.csproj",
+        "projectName": "Boi_Wala.Utility",
+        "projectPath": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi_Wala.Utility\\Boi_Wala.Utility.csproj",
+        "packagesPath": "C:\\Users\\Blue Cat\\.nuget\\packages\\",
+        "outputPath": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi_Wala.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Blue Cat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi_Wala.Models\\Boi_Wala.Models.csproj": {
+                "projectPath": "G:\\Project\\BoiWala Project\\BoiWala Project Done\\BoiWala\\Boi_Wala.Models\\Boi_Wala.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.0-rc.1.23421.29, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
